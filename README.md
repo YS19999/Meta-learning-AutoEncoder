@@ -12,6 +12,5 @@ Please download pretrained word embedding file wiki.en.vec from [here](https://d
 * pytorch 1.6.0
 * numpy 1.18.5
 * torchtext 0.7.0
-* termcolor 1.1.0
 * tqdm 4.46.0
 * CUDA 10.2
