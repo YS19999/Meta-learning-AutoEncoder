@@ -5,6 +5,8 @@ This repository contains the code and data for our paper: <br/>
 
 ## Data
 
+Please contact the corresponding author to obtain the dataset. <br/>
+
 Please download pretrained word embedding file wiki.en.vec from [here](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec) and put it under word2vec/ folder.
 
 ## Dependencies
